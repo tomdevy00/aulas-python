@@ -1,1 +1,3 @@
 '''Exercicio'''
+
+print('hello World')
