@@ -1,0 +1,3 @@
+git add .(adicionar arquivo)
+git commit -m "nome do arquivo"
+git push (para mandar para o github)
