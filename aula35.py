@@ -4,6 +4,7 @@ while (enquanto)
 Executa uma ação enquanto uma condição for verdadeira
 
 """
+"""
 contador = 10
 while contador <= 20:
     
@@ -12,3 +13,5 @@ while contador <= 20:
     
 
 print('Acabou')
+"""
+
